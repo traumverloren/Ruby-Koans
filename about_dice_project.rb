@@ -6,7 +6,6 @@ class DiceSet
   attr_accessor :values
 
   def initialize
-    @values
   end
 
   def roll(num)
